@@ -2,7 +2,7 @@
   "name": "projectapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kirankumar863.self-search/",
+  "homepage": "http://kirankumar863.self_search/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
